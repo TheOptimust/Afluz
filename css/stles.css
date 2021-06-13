@@ -75,12 +75,17 @@ body {
 }
 
 .font {
+  font-weight: bold;
+  margin-left: 50px;
+  margin-right: 50px;
   color: white;
+  font-size: 4rem;
   font-family: 'Lora', serif;
 }
 
 .disclaimer {
   color: red;
+  font-size:2.5rem;
 }
 
 .claimer {
@@ -100,7 +105,6 @@ body {
   width: 80%;
   background-color:#020d2a;
   /* width: 100%; */
-  text-align: center;
   height: 300px;
   border: 10px;
   /* margin-top: 10px; */
@@ -109,10 +113,10 @@ body {
   border-radius: 400px;
 }
 .learn{
-  margin-left: 200px;
+  margin-left: 30px;
   font-size: 70px;
   font-weight: bolder;
   line-height: 250px;
-  
+  text-align: center;
   /* border-left: 200px; */
 }

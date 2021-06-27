@@ -137,3 +137,11 @@ body {
 text-align: center;
 font-size: 3rem;
 }
+.body2{
+  min-height: auto;
+    background-color: rgb(53, 126, 165);
+    height: auto;
+}
+.green{
+ color: #5FD467;
+}

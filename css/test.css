@@ -1,0 +1,396 @@
+.mediaViewInfo {
+  --web-view-name: Web 1920 – 1;
+  --web-view-id: Web_1920__1;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Web_1920__1;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Web_1920__1 {
+  position: absolute;
+  width: 1767px;
+  height: 1080px;
+  background-color: rgba(255,255,255,1);
+  overflow: hidden;
+  --web-view-name: Web 1920 – 1;
+  --web-view-id: Web_1920__1;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Repeat_Grid_1 {
+  position: absolute;
+  width: 90px;
+  height: 65px;
+  left: 41px;
+  top: 34.5px;
+  display: none;
+  overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+  position: absolute;
+  width: 90px;
+  height: 1px;
+  left: 0px;
+  top: 2.5px;
+  overflow: visible;
+}
+#Line_1 {
+  fill: transparent;
+  stroke: rgba(112,112,112,1);
+  stroke-width: 4px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_1 {
+  overflow: visible;
+  position: absolute;
+  width: 90px;
+  height: 4px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_1 {
+  position: absolute;
+  width: 90px;
+  height: 1px;
+  left: 0px;
+  top: 27.5px;
+  overflow: visible;
+}
+#Line_1_n {
+  fill: transparent;
+  stroke: rgba(112,112,112,1);
+  stroke-width: 4px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_1_n {
+  overflow: visible;
+  position: absolute;
+  width: 90px;
+  height: 4px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Repeat_Grid_1_2 {
+  position: absolute;
+  width: 90px;
+  height: 1px;
+  left: 0px;
+  top: 52.5px;
+  overflow: visible;
+}
+#Line_1_p {
+  fill: transparent;
+  stroke: rgba(112,112,112,1);
+  stroke-width: 4px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_1_p {
+  overflow: visible;
+  position: absolute;
+  width: 90px;
+  height: 4px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#left_first {
+  position: absolute;
+  width: 690px;
+  height: 499px;
+  left: 64px;
+  top: 330px;
+  overflow: visible;
+}
+#Brand__Development_Agency {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 612px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 58px;
+  color: rgba(112,112,112,1);
+}
+#Rectangle_2 {
+  fill: rgba(255,255,255,1);
+  stroke: rgba(112,112,112,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_2 {
+  position: absolute;
+  overflow: visible;
+  width: 303.308px;
+  height: 85px;
+  left: 2.298px;
+  top: 301px;
+}
+#Contact_us {
+  left: 61.093px;
+  top: 311px;
+  position: absolute;
+  overflow: visible;
+  width: 146px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 31px;
+  color: rgba(112,112,112,1);
+}
+#Get_brand_diagnostics_session_ {
+  left: 0px;
+  top: 200px;
+  position: absolute;
+  overflow: visible;
+  width: 425px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  color: rgba(112,112,112,1);
+}
+#Schedule_a_Date_With_Us {
+  left: 6px;
+  top: 447px;
+  position: absolute;
+  overflow: visible;
+  width: 321px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(112,112,112,1);
+}
+#Line_2 {
+  fill: transparent;
+  stroke: rgba(112,112,112,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_2 {
+  overflow: visible;
+  position: absolute;
+  width: 1767px;
+  height: 1px;
+  left: 0px;
+  top: 885px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Nav_bar {
+  position: absolute;
+  width: 1682px;
+  height: 131px;
+  left: 53px;
+  top: 39px;
+  overflow: visible;
+}
+#Home {
+  left: 464px;
+  top: 63px;
+  position: absolute;
+  overflow: visible;
+  width: 89px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 33px;
+  color: rgba(112,112,112,1);
+}
+#Services {
+  left: 657px;
+  top: 66px;
+  position: absolute;
+  overflow: visible;
+  width: 114px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  color: rgba(112,112,112,1);
+}
+#About_us_ {
+  left: 877px;
+  top: 66px;
+  position: absolute;
+  overflow: visible;
+  width: 142px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 33px;
+  color: rgba(112,112,112,1);
+}
+#Path_1 {
+  fill: rgba(255,255,255,1);
+  stroke: rgba(112,112,112,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_1 {
+  overflow: visible;
+  position: absolute;
+  width: 131.021px;
+  height: 131px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#AFLUZ {
+  left: 144px;
+  top: 40px;
+  position: absolute;
+  overflow: visible;
+  width: 91px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  color: rgba(112,112,112,1);
+}
+#Sign_Up_button {
+  position: absolute;
+  width: 211px;
+  height: 56px;
+  left: 1471px;
+  top: 50px;
+  overflow: visible;
+}
+#Rectangle_1 {
+  fill: rgba(255,255,255,1);
+  stroke: rgba(38,35,35,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1 {
+  position: absolute;
+  overflow: visible;
+  width: 211px;
+  height: 56px;
+  left: 0px;
+  top: 0px;
+}
+#Sign_Up {
+  left: 48px;
+  top: 1px;
+  position: absolute;
+  overflow: visible;
+  width: 116px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 33px;
+  color: rgba(112,112,112,1);
+}
+#Contact_us_ {
+  left: 1123px;
+  top: 66px;
+  position: absolute;
+  overflow: visible;
+  width: 151px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  color: rgba(112,112,112,1);
+}
+#We_Build_Your__Brand_Uniquenes {
+  left: 1312px;
+  top: 920px;
+  position: absolute;
+  overflow: visible;
+  width: 337px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 41px;
+  color: rgba(112,112,112,1);
+}
+#Right_first_Social_media_icons {
+  position: absolute;
+  width: 66px;
+  height: 183px;
+  left: 1697px;
+  top: 339px;
+  overflow: visible;
+}
+#kisspng-computer-icons-social- {
+  mix-blend-mode: luminosity;
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#kisspng-computer-icons-logo-im {
+  mix-blend-mode: luminosity;
+  position: absolute;
+  width: 49px;
+  height: 50px;
+  left: 5px;
+  top: 74px;
+  overflow: visible;
+}
+#transparent-whatsapp-icon-5d66 {
+  mix-blend-mode: luminosity;
+  position: absolute;
+  width: 43px;
+  height: 47px;
+  left: 11px;
+  top: 136px;
+  overflow: visible;
+}

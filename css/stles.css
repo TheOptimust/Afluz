@@ -118,7 +118,7 @@ body {
   border-radius: 400px;
 }
 .learn{
-  /* margin-left: 30px; */
+  margin-left: 30px;
   font-size: 40px;
   font-weight: bolder;
   line-height: 200px;
@@ -146,5 +146,5 @@ font-size: 3rem;
  color: #5FD467;
 }
 .topic{
-  font-size:3rem;
+  font-size:4rem;
 }

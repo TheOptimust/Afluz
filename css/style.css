@@ -1029,13 +1029,52 @@
     font-size: 18px;
     color: rgba(10,9,9,1);
 }
-
 #Group_9 {
+    position: absolute;
     width: 245px;
     height: 250px;
+    left: 18px;
+    top: 860px;
     overflow: visible;
 }
 
+#Rectangle_19 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,0.078);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_19 {
+    filter: drop-shadow(5px 10px 6px rgba(77, 74, 74, 0.341));
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    height: 269px;
+    left: 0px;
+    top: 0px;
+}
+	#Rectangle_19 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,0.078);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19 {
+		filter: drop-shadow(5px 10px 6px rgba(77, 74, 74, 0.341));
+		position: absolute;
+		overflow: visible;
+		width: 263px;
+		height: 269px;
+		left: 0px;
+		top: 0px;
+	}
 #Rectangle_19 {
     fill: rgba(255,255,255,1);
     stroke: rgba(112,112,112,0.078);

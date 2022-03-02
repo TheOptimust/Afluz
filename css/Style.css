@@ -1,17 +1,18 @@
-﻿body {
+﻿/*body {
     max-width: 100%;
     min-height: 100%;
     overflow-x: hidden;
 }
 html {
     height: 100%;
-}
+}*/
 
 #nav {
     background: #0A0808;
 }
 #navfont {
     color: #FFFFFF;
+    font-size: 26px;
 }
 .car {
     position: absolute;
@@ -274,24 +275,24 @@ html {
 
     .gameplay {
         position: relative;
-        width: 422px;
+        width: 506px;
         top: 45px;
         font-family: Montserrat, sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 36px;
+        font-size: 45px;
         line-height: 44px;
         color: #FFFFFF;
     }
 
 .gamepla {
     position: relative;
-    width: 422px;
+    width: 512px;
     bottom: -412px;
     font-family: Montserrat, sans-serif;
     font-style: normal;
     font-weight: 800;
-    font-size: 20px;
+    font-size: 41px;
     line-height: 44px;
     color: #FFFFFF;
 }

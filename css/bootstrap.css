@@ -1563,7 +1563,7 @@ progress {
     width: 41.6666666667%;
   }
 
-  .colcol-xl-6 {
+  .col-xl-6 {
     flex: 0 0 auto;
     width: 50%;
   }
@@ -3478,7 +3478,6 @@ textarea.form-control-lg {
 .dropdown-menu-end[data-bs-popper] {
   right: 0 /* rtl:ignore */;
   left: auto /* rtl:ignore */;
- 
 }
 
 @media (min-width: 576px) {
@@ -3488,7 +3487,6 @@ textarea.form-control-lg {
   .dropdown-menu-sm-start[data-bs-popper] {
     right: auto /* rtl:ignore */;
     left: 0 /* rtl:ignore */;
-
   }
 
   .dropdown-menu-sm-end {

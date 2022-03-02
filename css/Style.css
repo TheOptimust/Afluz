@@ -1,0 +1,377 @@
+﻿body {
+    max-width: 100%;
+    min-height: 100%;
+    overflow-x: hidden;
+}
+html {
+    height: 100%;
+}
+
+#nav {
+    background: #0A0808;
+}
+#navfont {
+    color: #FFFFFF;
+}
+.car {
+    position: absolute;
+    width: 100%;
+    height: 763px;
+    top: 0px;
+    background-color:white;
+}
+.div2 {
+    position: absolute;
+    width: 102%;
+    height: 2279px;
+    top: 728px;
+    background: #1D1D1D;
+}
+@media (min-width: 576px) {
+    .car {
+        width: 172%;
+    }
+
+    .div2 {
+        top: 915px;
+        width: 131%;
+    }
+
+    .nop {
+        height: 4423px;
+    }
+
+    .gamepla {
+        position: relative;
+        width: 422px;
+        top: 1106px;
+    }
+
+    .zoom {
+        position: relative;
+        width: 157%;
+        left: -625px;
+        top: -13px;
+    }
+
+    .feature {
+        position: relative;
+        width: 149%;
+        top: 5px;
+        left: 52px;
+    }
+    .drift {
+        position: relative;
+        width: 149%;
+        left: 31px;
+    }
+    .iframe {
+        width: 90%;
+        position: relative;
+        left: 5%;
+        height: 923px;
+        top: 7px;
+    }
+
+     .last {
+        position: absolute;
+        width: 90%;
+        height: 771px;
+        left: 5%;
+        top: 5561px;
+    }
+    .playsto {
+        position: relative;
+        width: 251.99px;
+        height: 74.3px;
+        left: 101px;
+        top: 499px;
+        border: 1.28107px solid #FCF6F6;
+        box-sizing: border-box;
+        border-radius: 11.2891px;
+    }
+    .playst {
+        position: relative;
+        width: 259.99px;
+        height: 74.3px;
+        left: 370px;
+        top: 428px;
+        border: 1.28107px solid #FCF6F6;
+        box-sizing: border-box;
+        border-radius: 11.2891px;
+    }
+
+}
+@media (min-width: 768px) {
+
+}
+@media (min-width: 992px) {
+    
+}
+
+}
+@media (min-width: 1200px) {
+
+    .div2 {
+        width: 102%;
+    }
+    .zoom {
+        position: relative;
+        width: 157%;
+        left: -204px;
+        top: -13px;
+    }
+    .last {
+        position: absolute;
+        width: 90%;
+        height: 771px;
+        left: 5%;
+        top: 1508px;
+    }
+    .playsto {
+        position: relative;
+        width: 251.99px;
+        height: 74.3px;
+        left: 101px;
+        top: 943px;
+        border: 1.28107px solid #FCF6F6;
+        box-sizing: border-box;
+        border-radius: 11.2891px;
+    }
+    .iframe {
+        width: 90%;
+        position: relative;
+        left: 5%;
+        height: 923px;
+        top: 539px;
+    }
+    .playst {
+        position: relative;
+        width: 259.99px;
+        height: 74.3px;
+        left: 370px;
+        top: 870px;
+        border: 1.28107px solid #FCF6F6;
+        box-sizing: border-box;
+        border-radius: 11.2891px;
+    }
+
+
+}
+
+    .racerfont {
+        position: relative;
+        width: 704px;
+        height: 382px;
+        left: 66px;
+        top: 170px;
+        font-family: Colus, sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 147.636px;
+        line-height: 204px;
+        color: #F5FCFE;
+    }
+
+    .carg {
+        position: relative;
+        width: 75%;
+        height: 100%;
+        left: 0px;
+        top: 0px;
+        background: linear-gradient(89.42deg, #060312 40.6%, rgba(20, 15, 17, 0.48) 58.26%, rgba(196, 196, 196, 0) 90.93%);
+    }
+
+    .playstore {
+        position: relative;
+        width: 277.99px;
+        height: 74.3px;
+        left: 66px;
+        top: 217px;
+        border: 1.28107px solid #FCF6F6;
+        box-sizing: border-box;
+        border-radius: 11.2891px;
+    }
+
+
+    .playstor {
+        position: relative;
+        width: 277.99px;
+        height: 74.3px;
+        left: 387px;
+        top: 144px;
+        border: 1.28107px solid #FCF6F6;
+        box-sizing: border-box;
+        border-radius: 11.2891px;
+    }
+
+    .androidapp {
+        position: relative;
+        width: 201px;
+        height: 36.69px;
+        left: 66px;
+        top: 7px;
+        font-family: Montserrat, sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15.5225px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+.appleicon {
+    width: 16%;
+    position: relative;
+    top: -78px;
+    left: 7px;
+}
+.androidap {
+    position: relative;
+    width: 201px;
+    height: 36.69px;
+    left: 56px;
+    top: -11px;
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15.5225px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.appst {
+    font-size: 34px;
+    font-weight: 600;
+    position: relative;
+    width: 201px;
+    height: 36.69px;
+    left: 54px;
+    top: -23px;
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.feature {
+    position: relative;
+    width: 149%;
+    top: 5px;
+    left: 19px;
+}
+.playicon {
+    width: 15%;
+    position: relative;
+    top: -79px;
+    left: 10px;
+}
+.appstore {
+    font-size: 34px;
+    font-weight: 600;
+}
+.stpng {
+        position: absolute;
+        width: 100%;
+    }
+
+    .gameplay {
+        position: relative;
+        width: 422px;
+        top: 45px;
+        font-family: Montserrat, sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 44px;
+        color: #FFFFFF;
+    }
+
+.gamepla {
+    position: relative;
+    width: 422px;
+    bottom: -412px;
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+.drift {
+    position: relative;
+    width: 149%;
+}
+    .cir {
+        height: 0;
+    }
+
+
+   
+
+.float {
+    top: -866px;
+    position: relative;
+    width: 42%;
+    left: 743px;
+}
+    .lastimg {
+        width: 100%;
+        position: relative;
+    }
+
+    .start {
+        position: relative;
+        width: 879.76px;
+        left: 39px;
+        top: -534px;
+        font-family: Montserrat, sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 47px;
+        line-height: 91px;
+        color: #FFFFFF;
+    }
+
+    .star {
+        position: relative;
+        width: 436px;
+        height: 246px;
+        left: 39px;
+        top: -524px;
+        font-family: Montserrat, sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 21px;
+        line-height: 44px;
+        color: #FFFFFF;
+    }
+
+    .line {
+        position: relative;
+        width: 90%;
+        height: 0px;
+        left: 5%;
+        border: 1px solid #D7C7C7;
+    }
+
+    .game {
+        position: relative;
+        width: 189.66px;
+        height: 39.51px;
+        left: 95px;
+        top: 10px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        word-spacing: 67px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+
+    .min {
+        position: relative;
+        width: 427.41px;
+        height: 383.83px;
+        left: 1291px;
+        top: 3113px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 14.2469px 3.35222px 3.35222px rgba(0, 0, 0, 0.25);
+    }

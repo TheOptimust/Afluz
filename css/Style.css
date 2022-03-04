@@ -32,6 +32,14 @@ html {
     .car {
         width: 100%;
     }
+    .carg {
+        position: relative;
+        width: 75%;
+        height: 100%;
+        left: 0px;
+        top: 0px;
+        background: linear-gradient(89.42deg, #060312 40.6%, rgba(20, 15, 17, 0.48) 58.26%, rgba(196, 196, 196, 0) 90.93%);
+    }
 
     .div2 {
         top: 915px;
@@ -154,6 +162,12 @@ html {
         position: relative;
         top: -42px;
     }
+    #navfont {
+        font-size: 15px;
+    }
+    .carg{
+        height:170%;
+    }
 }
 
 
@@ -187,14 +201,7 @@ html {
         color: #F5FCFE;
     }
 
-    .carg {
-        position: relative;
-        width: 75%;
-        height: 100%;
-        left: 0px;
-        top: 0px;
-        background: linear-gradient(89.42deg, #060312 40.6%, rgba(20, 15, 17, 0.48) 58.26%, rgba(196, 196, 196, 0) 90.93%);
-    }
+    
 
     .playstore {
         position: relative;
